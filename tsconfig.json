@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "forceConsistentCasingInFileNames": true,
+        "target": "ES5",
+        "allowJs": true,
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

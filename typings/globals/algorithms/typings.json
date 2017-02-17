@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/radixzz/algorithms-ts-definitions/b2bf7d9/index.d.ts",
+    "raw": "github:radixzz/algorithms-ts-definitions/index.d.ts#b2bf7d9",
+    "typings": "https://raw.githubusercontent.com/radixzz/algorithms-ts-definitions/b2bf7d9/index.d.ts"
+  }
+}
