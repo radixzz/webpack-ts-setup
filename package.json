@@ -20,7 +20,7 @@
     "tweenkey": "^0.0.9",
     "underscore": "^1.8.3"
   },
-  "description": "A retro terminal game for the browser",
+  "description": "Webpack Template",
   "devDependencies": {
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.26.1",
