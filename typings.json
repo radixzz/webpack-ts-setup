@@ -2,6 +2,7 @@
   "globalDependencies": {
     "algorithms": "github:radixzz/algorithms-ts-definitions/index.d.ts#b2bf7d9",
     "pixi.js": "registry:dt/pixi.js#4.3.0+20161230173829",
-    "underscore": "registry:dt/underscore#1.8.3+20161123125004"
+    "underscore": "registry:dt/underscore#1.8.3+20161123125004",
+    "node": "registry:env/node#6.0.0+20170213133316"
   }
 }
